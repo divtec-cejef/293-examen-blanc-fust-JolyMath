@@ -118,5 +118,11 @@ p {
 }
 
 .cssProduits{
-    border: #151515 2px ;
+    border: #151515 2px solid ;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: flex-start;
+    flex-wrap: wrap;
+
 }
