@@ -116,3 +116,7 @@ p {
 .nomProduit{
     color: #ff8800;
 }
+
+.cssProduits{
+    border: #151515 2px ;
+}
