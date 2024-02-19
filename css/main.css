@@ -100,3 +100,19 @@ main {
     margin: .5em 0 0;
     line-height: 1.1;
 }
+a:hover{
+    color: #6666;
+}
+
+p {
+    height: 1.3rem;
+    max-width: 800px;
+    line-height: 1.5;
+}
+
+.logo{
+    max-height: 80px;
+}
+.nomProduit{
+    color: #ff8800;
+}
