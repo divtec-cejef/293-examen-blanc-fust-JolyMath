@@ -120,10 +120,8 @@ p {
 .cssProduits{
     border: #151515 2px solid ;
     display: flex;
-    flex-direction: row;
     justify-content: center;
-    align-content: flex-start;
-    flex-wrap: wrap;
+    flex-basis: 360px;
 
 }
 .pied-de-page{
@@ -132,5 +130,22 @@ p {
     padding: 20px 40px 20px;
     color: #ffffff;
 text-transform: uppercase;
-    text-align: center;
+display: flex;
+    justify-content: center;
+}
+.paycard{
+    height: auto;
+}
+.produits{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+justify-content: center;
+    flex-wrap: wrap;
+
+
+}
+.alignement{
+    display: flex;
+    justify-content: center;
 }
