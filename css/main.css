@@ -126,3 +126,11 @@ p {
     flex-wrap: wrap;
 
 }
+.pied-de-page{
+    background-color: #151515;
+    margin-top: 2rem;
+    padding: 20px 40px 20px;
+    color: #ffffff;
+text-transform: uppercase;
+    text-align: center;
+}
