@@ -119,19 +119,18 @@ p {
 
 .cssProduits{
     border: #151515 2px solid ;
-    display: flex;
-    justify-content: center;
+
+
     flex-basis: 360px;
+
 
 }
 .pied-de-page{
-    background-color: #151515;
-    margin-top: 2rem;
-    padding: 20px 40px 20px;
+
+
     color: #ffffff;
 text-transform: uppercase;
-display: flex;
-    justify-content: center;
+
 }
 .paycard{
     height: auto;
@@ -139,13 +138,19 @@ display: flex;
 .produits{
     display: flex;
     flex-direction: row;
-    align-content: space-between;
-justify-content: center;
+justify-content: space-around;
     flex-wrap: wrap;
+
+
 
 
 }
 .alignement{
     display: flex;
     justify-content: center;
+    background-color: #151515;
+    margin-top: 2rem;
+    padding: 20px 40px 20px;
+
 }
+
