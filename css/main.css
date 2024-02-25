@@ -119,7 +119,7 @@ p {
 
 .cssProduits{
     border: #151515 2px solid ;
-
+margin-bottom: 50px;
 
     flex-basis: 360px;
 
@@ -137,11 +137,9 @@ text-transform: uppercase;
 }
 .produits{
     display: flex;
-    flex-direction: row;
-justify-content: space-around;
+    flex-direction:row;
     flex-wrap: wrap;
-
-
+justify-content: space-around;
 
 
 }
